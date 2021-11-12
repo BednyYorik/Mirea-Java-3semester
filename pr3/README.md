@@ -29,7 +29,7 @@
   Перепишите суперкласс Shape и его подклассы, так как это представлено
 на диаграмме Circle, Rectangle and Square.
 
-![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr3/images/1.png)
+![UML-диаграмма](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr3/images/1.png "Диаграмма суперкласса Shape")
                                 
   В этом задании, класс Shape определяется как абстрактный класс, который
 содержит:
@@ -109,3 +109,26 @@ System.out.println(sq1.getColor());
 System.out.println(sq1.getSide());
 System.out.println(sq1.getLength());
 ```
+
+- **Упражнение 4.**
+    Напишите два класса MovablePoint и MovableCircle - которые реализуют
+интерфейс Movable.
+
+![UML-диаграмма](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr3/images/2.png "Диаграмма реализации итерфейса Movable")
+
+```
+public interface Movable {
+// saved as "Movable.java"
+public void moveUp();
+......
+}
+```
+
+- **Упражнение 5.**
+    Напишите новый класс MovableRectangle (движущийся прямоугольник). Его
+можно представить как две движущиеся точки MovablePoints (представляющих
+верхняя левая и нижняя правая точки) и реализующие интерфейс Movable.
+Убедитесь, что две точки имеет одну и ту же скорость (нужен метод это
+проверяющий).
+
+![UML-диаграмма](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr3/images/3.png "Диаграмма класса MovableRectangle")
