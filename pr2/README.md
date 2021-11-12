@@ -25,7 +25,7 @@
 Author должен содержать реализацию методов, представленных на диаграмме
 класса на рисунке
 <h4 align="center">
-    ![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/master/images/1.png)
+    ![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/master/pr2/images/1.png)
 </h4>
   
 - **Упражнение 2.**
