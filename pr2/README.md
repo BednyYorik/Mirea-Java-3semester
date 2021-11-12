@@ -24,9 +24,9 @@
 написать программу, которая состоит из двух классов Author и TestAuthor. Класс
 Author должен содержать реализацию методов, представленных на диаграмме
 класса на рисунке
-<h4 align="center">
-    ![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/blob/061dfe73dc65e9945e52819d5ea431143fe23eed/pr2/images/1.png)
-</h4>
+
+![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr2/images/1.png)
+
   
 - **Упражнение 2.**
   Реализуйте простейший класс «Мяч».
