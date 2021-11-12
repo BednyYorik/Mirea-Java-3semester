@@ -25,10 +25,10 @@
 Author должен содержать реализацию методов, представленных на диаграмме
 класса на рисунке
 
-![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr2/images/1.png)
+![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr2/images/1.png "UML-диаграмма класса Author")
 
   
-- **Упражнение 2.**
+- ***Упражнение 2.***
   По UML диаграмме класса, представленной на рисунке 2.5. написать
 программу, которая состоит из двух классов. Один из них Ball должен
 реализовывать сущность мяч, а другой с названием TestBall тестировать работу
@@ -36,7 +36,7 @@ Author должен содержать реализацию методов, пр
 представленных на UML. Диаграмма на рисунке описывает сущность Мяч
 написать программу.
 
-![UML-диаграмма класса Author](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr2/images/2.png)
+![UML-диаграмма класса Ball](https://github.com/BednyYorik/Mirea-Java-3semester/raw/main/pr2/images/2.png "UML-диаграмма класса Ball")
                                 
 Класс Ball моделирует движущийся мяч. В состав класса входят:
   - Две переменные с модификатором private (поля данных класса): х, у,
