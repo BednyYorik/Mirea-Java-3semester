@@ -17,7 +17,7 @@ public class GifAnimation extends JFrame {
 
         img = new JLabel(pictures[imgNum]);
         getContentPane().add(img);
-
+ 
         Timer timer = new Timer(2000, e -> showImages());
         timer.start();
     }
